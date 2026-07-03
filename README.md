@@ -22,12 +22,8 @@ Hidden Markov Models/
 │   ├── walking/
 │   ├── jumping/
 │   └── still/
-├── figures/                       # plots saved by the notebook
-├── report/
-│   ├── formative2_hmm_report.md   # report source
-│   └── formative2_hmm_report.pdf  # report for submission
+├── figures/                       # plots saved from the notebook   
 ├── hmm_activity.ipynb             # main notebook
-├── generate_report_pdf.py         # rebuilds the PDF from figures
 ├── requirements.txt
 └── README.md
 ```
